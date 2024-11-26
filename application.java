@@ -41,3 +41,27 @@
 </body>
 </html>
 #ended by feature2
+#feature added by feature1
+<!DOCTYPE html> 
+<html> 
+
+<body> 
+	<!-- Various HTML elements with 
+	different tag names -->
+	<div class="gfg">GFG</div> 
+	<div class="gfg">G</div> 
+	<div class="gfg">F</div> 
+	<div class="gfg">G</div> 
+	<p>Geeks</p> 
+
+	<script> 
+		
+		// Using "." for prefix class selector 
+		const divs = 
+			document.querySelectorAll(".gfg"); 
+		console.log(divs); 
+	</script> 
+</body> 
+
+</html>
+#enede by feature1
