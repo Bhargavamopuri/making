@@ -65,3 +65,26 @@
 
 </html>
 #enede by feature1
+#feature added by feature3
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DOM open() Method</title>
+</head>
+<body>
+	<p>GeeksforGeeks</p>
+	<button onclick="Geeks()">
+		Click Here!
+	</button>
+	<script>
+		function Geeks() {
+			let x = window.open();
+			/* DOM open() method used here */
+			x.document.open("text/html", "replace");
+			x.document.write("Welcome to GeeksforGeeks");
+			x.document.close();
+		}
+	</script>
+</body>
+</html>
+#enede by feature3
