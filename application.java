@@ -19,3 +19,25 @@
 </body> 
 
 </html>
+#feature added by feature2
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DOM open() Method</title>
+</head>
+<body>
+	<p>GeeksforGeeks</p>
+	<button onclick="Geeks()">
+		Click Here!
+	</button>
+	<script>
+		function Geeks() {
+			/* DOM open() method used here */
+			document.open("text/html", "replace");
+			document.write("Welcome to GeeksforGeeks");
+			document.close();	 
+		}
+	</script>
+</body>
+</html>
+#ended by feature2
