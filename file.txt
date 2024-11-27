@@ -1,2 +1,7 @@
 
 #working with banking domains
+
+
+#changes after modified
+#git diff --base file name
+#It will shows before modified what we changes in the file
