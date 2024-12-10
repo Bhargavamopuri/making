@@ -1,0 +1,21 @@
+#1 first-job
+============
+first-job configuration done
+#2 git-integaration-job
+=======================
+integrating the code from github repository
+congiured git-integartion-job
+git-integartion-job done successfully
+#3 Auto-build-job
+==================
+At regular intervals time
+jenkins pull the latest code from github repository
+certain peridically time & based on time depends build the jobs automatically
+Auto-build-job done successfully
+#4webhook-configuration-job
+===========================
+webhook-configuration-job
+whenever developer commits any new code or files into github repository
+jenkins triggred and pull the latest code from github repo & build the job 
+whenever changes & writing new code jenkins pull latest code & build job automatically
+webhook-job-configuration-done
